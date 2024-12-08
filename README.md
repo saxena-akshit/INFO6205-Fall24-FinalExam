@@ -1,4 +1,4 @@
-# Final Coding Quiz - Time limit 40 min
+# Final Coding Quiz - Time limit 30 min
 
 ## How to submit
 
