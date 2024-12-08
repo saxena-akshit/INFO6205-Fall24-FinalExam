@@ -21,9 +21,7 @@ public class Fibonacci {
      * @return the sum of the Fibonacci numbers 0 through n.
      */
     public long sumN(int n) {
-        long result = 0;
-        for (int i = 1; i <= n; i++) result += fibN(i);
-        return result;
+         return -1L;
     }
 
     public Fibonacci() {
