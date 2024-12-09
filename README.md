@@ -3,7 +3,7 @@
 ## How to submit
 
 - **Fork this repository, implement your code on your fork and make sure to push it when you're done**.
-- **Add gade.as@northeastern.edu, devarapalli.n@northeastern.edu as collaborators to your fork**.
+- **Add gade.as@northeastern.edu, devarapalli.n@northeastern.edu, gunjal.ga@northeastern.edu, patil.ba@northeastern.edu as collaborators to your fork**.
 - **Your last commit time will be recorded as your submission time**.
 
 ## Problem Statement
